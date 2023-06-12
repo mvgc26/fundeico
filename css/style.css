@@ -1,0 +1,71 @@
+
+.somos{
+    width: 325px;
+    height: 2px; 
+}
+
+.multi{
+    width: 250px;
+    height: 2px; 
+}
+.noti{
+    width: 200px;
+    height: 2px; 
+}
+.azul{
+    background: rgba(0, 0, 255, 0.250);
+}
+.top-nav-collapse{
+    background: rgba(0, 0, 255, 0.600);
+}
+
+.dentro{
+    font-size: 90px;
+    text-transform: uppercase;
+    position: absolute;
+    left: -4px;
+    z-index: -1;
+    bottom: -20px;
+    white-space: nowrap;
+    color: #f3f3f3;
+    line-height: 1;
+}
+.map-container-5{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+.map-container-5 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.pie{
+    width: 150px;
+    height: 2px;
+}
+.letra{
+    font-size: 10px;
+}
+.zoomout img {
+    height: 300px;
+  }
+.zoomout img:hover {
+height: 350px;
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+transition: all 1s ease;
+}
+.carousel-control-prev-icon{
+    width: 60px !important;
+    height: 60px !important; 
+}
+.carousel-control-next-icon{
+    width: 60px !important;
+    height: 60px !important;
+}
